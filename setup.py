@@ -11,6 +11,7 @@ setup(
     download_url='http://github.com/blackear23/django_tidb',
     description='TiDB backend for Django',
     long_description=long_description,
+    keywords=['django', 'tidb'],
     packages=['django_tidb', 'django_tidb.tidb'],
     license='Apache2',
     classifiers=[

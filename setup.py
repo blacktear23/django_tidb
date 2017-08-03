@@ -8,7 +8,7 @@ setup(
     author='Rain Li',
     author_email='blacktear23@gmail.com',
     url='http://github.com/blacktear23/django_tidb',
-    download_url='http://github.com/blackear23/django_tidb',
+    download_url='http://github.com/blackear23/django_tidb/archive/1.0.tar.gz',
     description='TiDB backend for Django',
     long_description=long_description,
     keywords=['django', 'tidb'],

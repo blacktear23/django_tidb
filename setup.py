@@ -21,7 +21,6 @@ setup(
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 2',
-        'Topic :: Database Driver',
         'Topic :: Software Development :: Libraries',
     ],
 )

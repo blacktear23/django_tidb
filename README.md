@@ -9,7 +9,7 @@ For now this package is tested in python 2.7
 ### Install Package
 
 ```
-# git clone http://github.com/blacktear23/tidb_django.git
+# git clone https://github.com/blacktear23/django_tidb.git
 # cd tidb_django
 # python setup.py install
 ```

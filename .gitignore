@@ -1,0 +1,6 @@
+i*.swp
+build/*
+*.pyc
+.DS_Store
+**/.DS_Store
+.idea

@@ -8,10 +8,18 @@ For now this package is tested in python 2.7 and django 1.8.x
 
 ### Install Package
 
+clone and install
+
 ```
 # git clone https://github.com/blacktear23/django_tidb.git
 # cd tidb_django
 # python setup.py install
+```
+
+install from pip
+
+```
+pip install django_tidb
 ```
 
 ### Update settings.py

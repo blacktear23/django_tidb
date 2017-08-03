@@ -1,5 +1,6 @@
 i*.swp
 build/*
+dist/*
 *.pyc
 .DS_Store
 **/.DS_Store

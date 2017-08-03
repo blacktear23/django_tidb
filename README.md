@@ -33,4 +33,4 @@ DATABASES = {
 
 * TiDB not support foreign key
 * TiDB require delete index before drop column
-* TiDB not support `CASCADE` key word when drop index and drop column
+* TiDB not support `CASCADE` key word when drop column or drop table

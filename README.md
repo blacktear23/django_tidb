@@ -2,7 +2,7 @@
 
 This library is based on django’s mysql backend and change some logic and support features to fit TiDB.
 
-For now this package is tested in python 2.7
+For now this package is tested in python 2.7 and django 1.8.x
 
 # Usage
 
@@ -33,4 +33,4 @@ DATABASES = {
 
 * TiDB not support foreign key
 * TiDB require delete index before drop column
-* TiDB not support `CASCADE` key word when drop index and drop column
+* TiDB not support `CASCADE` key word when drop column or drop table

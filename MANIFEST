@@ -4,11 +4,5 @@ setup.py
 django_tidb/__init__.py
 django_tidb/tidb/__init__.py
 django_tidb/tidb/base.py
-django_tidb/tidb/client.py
-django_tidb/tidb/compiler.py
-django_tidb/tidb/creation.py
 django_tidb/tidb/features.py
-django_tidb/tidb/introspection.py
-django_tidb/tidb/operations.py
 django_tidb/tidb/schema.py
-django_tidb/tidb/validation.py

@@ -6,7 +6,7 @@ long_description = """TiDB backend for Django"""
 
 setup(
     name='django_tidb',
-    version='2.1',
+    version='2.1.1',
     author='Rain Li',
     author_email='blacktear23@gmail.com',
     url='http://github.com/blacktear23/django_tidb',

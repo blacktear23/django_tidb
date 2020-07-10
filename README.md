@@ -42,3 +42,8 @@ DATABASES = {
 * TiDB not support foreign key
 * TiDB require delete index before drop column
 * TiDB not support `CASCADE` key word when drop column or drop table
+
+# TODO
+
+* Python3 support test
+* Django 2.x and 3.x support test
